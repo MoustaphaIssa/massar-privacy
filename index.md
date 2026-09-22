@@ -1,108 +1,108 @@
-# Politique de confidentialité — Massar
+# Privacy Policy — Massar
 
-**Dernière mise à jour : 22 septembre 2026**
+**Last updated: September 22, 2026**
 
 ---
 
 ## 1. Introduction
 
-Massar est une application mobile d'apprentissage proposant des cours vidéo et des sessions en direct destinés aux élèves. La présente politique de confidentialité explique quelles données nous collectons, pourquoi nous les collectons, et comment nous les protégeons.
+Massar is a mobile learning application offering video courses and live sessions for students. This privacy policy explains what data we collect, why we collect it, and how we protect it.
 
-En utilisant l'application Massar, vous acceptez les pratiques décrites dans cette politique.
-
----
-
-## 2. Données collectées
-
-### 2.1 Données d'identification
-- **Numéro de téléphone** : utilisé pour créer votre compte et vous authentifier via un code OTP.
-- **Prénom et nom** : fournis lors de l'inscription ou renseignés par l'administrateur.
-
-### 2.2 Données d'appareil
-- **Identifiant unique de l'appareil** : nous enregistrons un identifiant de votre appareil afin de limiter l'accès à un seul appareil par compte et prévenir le partage non autorisé.
-
-### 2.3 Données de paiement
-- **Justificatifs de paiement** : photos ou documents que vous soumettez pour valider votre abonnement. Ces fichiers sont stockés de façon sécurisée et accessibles uniquement à l'administrateur.
-
-### 2.4 Données d'utilisation
-- **Progression dans les cours** : pourcentage de visionnage par vidéo, dernière vidéo regardée.
-- **Téléchargements** : liste des cours téléchargés sur votre appareil.
-- **Inscriptions** : matières auxquelles vous êtes inscrit.
-
-### 2.5 Notifications push
-- **Token de notification** : utilisé pour vous envoyer des alertes (nouveau cours, décision sur votre paiement, session en direct). Vous pouvez désactiver les notifications depuis les réglages de votre téléphone.
+By using the Massar application, you agree to the practices described in this policy.
 
 ---
 
-## 3. Utilisation des données
+## 2. Data We Collect
 
-Nous utilisons vos données uniquement pour :
+### 2.1 Identification Data
+- **Phone number**: used to create your account and authenticate you via an OTP code.
+- **First name and last name**: provided during registration or entered by the administrator.
 
-- Créer et gérer votre compte
-- Vous authentifier de façon sécurisée
-- Vérifier votre abonnement et vous donner accès aux cours
-- Vous envoyer des notifications relatives à l'application
-- Protéger votre compte contre un usage non autorisé
-- Améliorer l'expérience utilisateur de l'application
+### 2.2 Device Data
+- **Unique device identifier**: we store an identifier for your device to limit access to one device per account and prevent unauthorized sharing.
 
-Nous ne vendons, ne louons et ne partageons pas vos données personnelles avec des tiers à des fins commerciales.
+### 2.3 Payment Data
+- **Payment proofs**: photos or documents you submit to validate your subscription. These files are stored securely and accessible only to the administrator.
 
----
+### 2.4 Usage Data
+- **Course progress**: percentage of each video watched, last video viewed.
+- **Downloads**: list of courses downloaded to your device.
+- **Enrollments**: subjects you are enrolled in.
 
-## 4. Partage des données avec des services tiers
-
-Pour fonctionner, Massar utilise les services suivants :
-
-| Service | Utilisation | Politique |
-|---------|-------------|-----------|
-| **Supabase** | Base de données, authentification, stockage des fichiers | supabase.com/privacy |
-| **Agora** | Sessions de cours en direct (streaming vidéo) | agora.io/en/privacy-policy |
-| **Expo / EAS** | Notifications push, distribution de l'application | expo.dev/privacy |
-| **Cloudflare R2** | Hébergement sécurisé des vidéos de cours | cloudflare.com/privacypolicy |
-
-Ces services sont soumis à leurs propres politiques de confidentialité. Ils n'ont accès qu'aux données strictement nécessaires à leur fonctionnement.
+### 2.5 Push Notifications
+- **Notification token**: used to send you alerts (new course, payment decision, live session). You can disable notifications from your phone's settings.
 
 ---
 
-## 5. Sécurité des données
+## 3. How We Use Your Data
 
-- Toutes les communications entre l'application et nos serveurs sont chiffrées via HTTPS/TLS.
-- Les vidéos de cours sont accessibles uniquement via des URLs signées à durée limitée.
-- L'accès à votre compte est limité à un seul appareil à la fois.
-- Les justificatifs de paiement sont stockés dans un espace privé, inaccessible publiquement.
+We use your data solely to:
 
----
+- Create and manage your account
+- Authenticate you securely
+- Verify your subscription and grant you access to courses
+- Send you application-related notifications
+- Protect your account against unauthorized use
+- Improve the application's user experience
 
-## 6. Conservation des données
-
-Vos données sont conservées tant que votre compte est actif. Si votre compte est supprimé par l'administrateur, toutes vos données personnelles associées (profil, progression, téléchargements, demandes de paiement) sont supprimées définitivement.
-
----
-
-## 7. Droits des utilisateurs
-
-Vous pouvez à tout moment :
-
-- **Consulter** les informations liées à votre compte via l'application
-- **Demander la suppression** de votre compte en contactant l'administrateur
-- **Désactiver les notifications push** depuis les réglages de votre téléphone
+We do not sell, rent, or share your personal data with third parties for commercial purposes.
 
 ---
 
-## 8. Mineurs
+## 4. Third-Party Services
 
-Massar est destiné aux élèves, y compris des mineurs. Aucune donnée n'est collectée à des fins publicitaires. L'accès à l'application est contrôlé par l'administrateur qui valide chaque inscription.
+To operate, Massar uses the following services:
+
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| **Supabase** | Database, authentication, file storage | supabase.com/privacy |
+| **Agora** | Live video streaming sessions | agora.io/en/privacy-policy |
+| **Expo / EAS** | Push notifications, app distribution | expo.dev/privacy |
+| **Cloudflare R2** | Secure video hosting | cloudflare.com/privacypolicy |
+
+These services are subject to their own privacy policies. They only have access to data strictly necessary for their operation.
 
 ---
 
-## 9. Modifications de cette politique
+## 5. Data Security
 
-Nous pouvons mettre à jour cette politique de confidentialité. En cas de modification significative, une notification sera envoyée via l'application. La date de dernière mise à jour est indiquée en haut de ce document.
+- All communications between the application and our servers are encrypted via HTTPS/TLS.
+- Course videos are only accessible through time-limited signed URLs.
+- Account access is restricted to one device at a time.
+- Payment proofs are stored in a private storage space, not publicly accessible.
+
+---
+
+## 6. Data Retention
+
+Your data is retained as long as your account is active. If your account is deleted by the administrator, all associated personal data (profile, progress, downloads, payment requests) is permanently deleted.
+
+---
+
+## 7. Your Rights
+
+You may at any time:
+
+- **Access** the information linked to your account via the application
+- **Request deletion** of your account by contacting the administrator
+- **Disable push notifications** from your phone's settings
+
+---
+
+## 8. Minors
+
+Massar is intended for students, including minors. No data is collected for advertising purposes. Access to the application is controlled by the administrator who validates each registration.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this privacy policy. In the event of a significant change, a notification will be sent via the application. The last updated date is indicated at the top of this document.
 
 ---
 
 ## 10. Contact
 
-Pour toute question relative à vos données personnelles :
+For any questions regarding your personal data:
 
-**Email** : moustaphaissa.pr@gmail.com
+**Email**: moustaphaissa.pr@gmail.com
