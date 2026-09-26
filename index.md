@@ -1,6 +1,6 @@
 # Privacy Policy — Massar
 
-**Last updated: September 22, 2026**
+**Last updated: September 27, 2026**
 
 ---
 
@@ -75,7 +75,7 @@ These services are subject to their own privacy policies. They only have access 
 
 ## 6. Data Retention
 
-Your data is retained as long as your account is active. If your account is deleted by the administrator, all associated personal data (profile, progress, downloads, payment requests) is permanently deleted.
+Your data is retained as long as your account is active. If you delete your account (from your Profile page in the app) or if it is deleted by the administrator, all associated personal data (profile, progress, downloads, payment requests) is permanently deleted.
 
 ---
 
@@ -84,7 +84,7 @@ Your data is retained as long as your account is active. If your account is dele
 You may at any time:
 
 - **Access** the information linked to your account via the application
-- **Request deletion** of your account by contacting the administrator
+- **Delete your account** directly from the application: go to your **Profile page** and tap the account deletion option. All your personal data (profile, progress, downloads, payment requests) will be permanently deleted.
 - **Disable push notifications** from your phone's settings
 
 ---
